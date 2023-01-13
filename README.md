@@ -5,6 +5,6 @@ So we have Nya hub (formerly ntg hub), which is basically a script hub i made us
 
 so put this thingy in ur roblox executor:
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Roblox-Stuff/main/nya-hunb.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/nya-hunb.lua"))()
 
 # 
