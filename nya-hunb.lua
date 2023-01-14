@@ -22,10 +22,26 @@ b:Button("Infinite Yield",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/iy.lua"))()
 end)
 
+b:Button("BTools",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/btools.lua"))()
+end)
+
 local g = w:CreateFolder("Fun")
 
 g:Button("R15 Animations",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Roblox-Stuff/main/folder%20for%20scripts%20i%20uploaded/443244_source.lua"))()
+end)
+
+g:Button("Pendulum (sussy owo)",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/pendd22.lua"))()
+end)
+
+g:Button("2016 Roblox Ui",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/2016ui.lua"))()
+end)
+
+g:Button("Rush Fling",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/343.lua"))()
 end)
 
 b:DestroyGui()
