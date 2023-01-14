@@ -34,12 +34,6 @@ b:Button("Infinite Yield",function()
     loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()"))()
 end)
 
-
-b:Toggle("Toggle",function(bool)
-    shared.toggle = bool
-    print(shared.toggle)
-end)
-
 local g = w:CreateFolder("Fun")
 
 g:Button("R15 Animations",function()
