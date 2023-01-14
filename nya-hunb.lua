@@ -6,10 +6,6 @@ local w = library:CreateWindow("nya hub") -- Creates the window
 
 local b = w:CreateFolder("Utility") -- Creates the folder(U will put here your buttons,etc)
 
-b:Button("Destroy Gui",function()
-    w:Destroy()
-end)
-
 b:Button("SimpleSpy",function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua')))()
 end)
@@ -36,11 +32,11 @@ b:DestroyGui()
 
 local j1 = w:CreateFolder("Games")
 
-j1:Button("Murder mystery Vynixu",function()
+j1:Button("MM2 Vynixu",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/mm2%20vynixu.lua"))()
 end)
 
-j1:Button("Arsenal aimbot & esp",function()
+j1:Button("Arsenal easy",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Roblox-Stuff/main/folder%20for%20scripts%20i%20uploaded/44_source.lua"))()
 end)
 
@@ -48,6 +44,6 @@ j1:Button("Flee The Facility",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/flee%20the%20facc.lua"))()
 end)
 
-j1:Button("Big Paintball all guns",function()
+j1:Button("Big Paintball",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/big_paintball.lua"))()
 end)
