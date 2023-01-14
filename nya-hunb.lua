@@ -30,6 +30,11 @@ b:Button("R15 Animations",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Roblox-Stuff/main/folder%20for%20scripts%20i%20uploaded/443244_source.lua"))()
 end)
 
+b:Button("Infinite Yield",function()
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()"))()
+end)
+
+
 b:Toggle("Toggle",function(bool)
     shared.toggle = bool
     print(shared.toggle)
