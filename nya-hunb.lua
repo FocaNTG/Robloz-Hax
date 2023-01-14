@@ -33,7 +33,7 @@ b:DestroyGui()
 local j1 = w:CreateFolder("Games")
 
 j1:Button("Murder mystery Vynixu",function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/mm2%20vynixu"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/mm2%20vynixu.lua"))()
 end)
 
 j1:Button("Arsenal aimbot & esp",function()
@@ -41,9 +41,9 @@ j1:Button("Arsenal aimbot & esp",function()
 end)
 
 j1:Button("Flee The Facility",function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/flee%20the%20facc"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/flee%20the%20facc.lua"))()
 end)
 
 j1:Button("Big Paintball all guns",function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/big_paintball"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/big_paintball.lua"))()
 end)
