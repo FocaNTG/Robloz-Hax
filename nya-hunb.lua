@@ -48,6 +48,6 @@ j1:Button("Flee The Facility",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/flee%20the%20facc"))()
 end)
 
-j1:Button("Big Paintball (get all guns)",function()
+j1:Button("Big Paintball all guns",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/big_paintball"))()
 end)
