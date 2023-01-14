@@ -7,7 +7,6 @@ local w = library:CreateWindow("nya hub") -- Creates the window
 local b = w:CreateFolder("Utility") -- Creates the folder(U will put here your buttons,etc)
 
 b:Button("Destroy Gui",function()
-    w:DestroyGui()
     w:Destroy()
 end)
 
