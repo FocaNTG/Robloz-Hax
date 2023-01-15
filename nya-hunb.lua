@@ -57,7 +57,7 @@ j1:Button("Arsenal easy",function()
 end)
 
 j1:Button("Arsenal no gui",function()
-    loadstring(game:HttpGet("hhttps://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/44%20no%20gui.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/44%20no%20gui.lua"))()
 end)
 
 j1:Button("Flee The Facility",function()
