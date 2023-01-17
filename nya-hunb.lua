@@ -26,6 +26,10 @@ b:Button("BTools",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/btools.lua"))()
 end)
 
+b:Button("Server lagger",function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/crash.lua')))()
+end)
+
 local g = w:CreateFolder("Fun")
 
 g:Button("R15 Animations",function()
