@@ -64,10 +64,18 @@ j1:Button("Arsenal no gui",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/44%20no%20gui.lua"))()
 end)
 
-j1:Button("Flee The Facility",function()
+j1:Button("Flee da Facility",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/flee%20the%20facc.lua"))()
 end)
 
 j1:Button("Big Paintball",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/big_paintball.lua"))()
+end)
+
+j1:Button("Survival Game",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/survival.lua"))()
+end)
+
+j1:Button("Build Boat",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/buildboat.lua"))()
 end)
