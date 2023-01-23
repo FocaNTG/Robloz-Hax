@@ -79,3 +79,7 @@ end)
 j1:Button("Build Boat",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/buildboat.lua"))()
 end)
+
+j1:Button("Mortem Metallum",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/mortemmetallum.lua"))()
+end)
