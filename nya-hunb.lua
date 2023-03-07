@@ -22,6 +22,10 @@ b:Button("CMD X",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/iy.lua"))()
 end)
 
+b:Button("Infinite Yield",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/actual_iy.lua"))()
+end)
+
 b:Button("BTools",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/btools.lua"))()
 end)
