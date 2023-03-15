@@ -15,7 +15,7 @@ b:Button("Anti-Afk",function()
 end)
 
 b:Button("R15 Animations",function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Roblox-Stuff/main/folder%20for%20scripts%20i%20uploaded/443244_source.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Roblox-Stuff/main/folder%20for%20scripts%20i%20uploaded/anim"))()
 end)
 
 b:Button("CMD X",function()
