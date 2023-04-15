@@ -10,6 +10,10 @@ b:Button("SimpleSpy",function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua')))()
 end)
 
+b:Button("Chat Translator",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/language.lua"))()
+end)
+
 b:Button("Anti-Afk",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind", true))()
 end)
