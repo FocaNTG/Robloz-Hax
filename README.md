@@ -6,6 +6,9 @@ Nya hub is unfinished and will be heavily updated. You don't have to update anyt
 
 to use, put this thingy in ur roblox executor:
 
+local ui_number_here = ""
+-- 1 = wally (default original look)
+-- 2 = soon
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/nya-hunb.lua"))()
 
 # 
