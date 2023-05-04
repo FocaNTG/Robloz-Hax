@@ -199,3 +199,9 @@
      loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/aimblox"))() 
 
  end)
+
+j1:button("Doors",function()
+
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/doors"))() 
+
+end)
