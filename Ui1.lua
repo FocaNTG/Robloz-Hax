@@ -1,3 +1,5 @@
+print("wally")
+
 -- Gui stuff Made by : https://v3rmillion.net/member.php?action=profile&uid=507120 
 
   
