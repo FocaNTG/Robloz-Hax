@@ -5,13 +5,17 @@ Nya hub is unfinished and will be heavily updated. You don't have to update anyt
 # Usage
 put this in your executor:
 ```
-mercury = true
+local mercury = true
 
 if mercury == true then
+
+  print("mercury1")
 
        loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/ui2.lua"))() 
 
   elseif mercury == false then
+
+    print("wally1")
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/ui1.lua"))()
 
