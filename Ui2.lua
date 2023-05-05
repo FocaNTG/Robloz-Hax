@@ -23,8 +23,7 @@ Tab:Button{
      Name = "Infinite Yield",
      Description = "the famous admin script",
      Callback = function()
-       
-       -- add loadstring/script/whatever u want this button to do here
+          loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/actual_iy.lua"))() 
        
      end
 }
@@ -41,7 +40,7 @@ Tab0:Button{
      Description = "X to toggle the aimlock, T to update esp",
      Callback = function()
        
-       -- add loadstring/script/whatever u want this button to do here
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/FocaNTG/Robloz-Hax/main/folder%20for%20scripts%20i%20uploaded/44%20no%20gui.lua"))() 
        
      end
 }
@@ -57,8 +56,8 @@ Tab1:Button{
      Description = nil,
      Callback = function()
        
-       -- add loadstring/script/whatever u want this button to do here
        
+    
      end
 }
 
