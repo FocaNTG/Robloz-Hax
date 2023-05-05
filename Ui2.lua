@@ -1,3 +1,5 @@
+print("mercury")
+
 -- [[ Credits for the gui go to the Mercury Lib creators ]] -- 
   
   
