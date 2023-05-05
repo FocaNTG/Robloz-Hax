@@ -29,13 +29,13 @@ Tab:Button{
      end
 }
 
--- making a new tab
+
 local Tab0 = GUI:Tab{
      Name = "Game Scripts",
      Icon = "rbxassetid://8569322835"
 }
 
--- adding some buttons for stuff
+
 Tab0:Button{
      Name = "Aimlock + esp for most games",
      Description = "X to toggle the aimlock, T to update esp",
@@ -46,13 +46,12 @@ Tab0:Button{
      end
 }
 
--- making a new tab
 local Tab1 = GUI:Tab{
      Name = "Fun Scripts",
      Icon = "rbxassetid://8569322835"
 }
 
--- adding some buttons for stuff
+
 Tab1:Button{
      Name = "Pendulum",
      Description = nil,
@@ -63,7 +62,7 @@ Tab1:Button{
      end
 }
 
--- at the end, we will notify the player that thr script hss been loaded successfully
+-- at the end, we will notify the player that the script has been loaded successfully
 GUI:Notification{
      Title = "Loaded!",
      Text = "Thanks for using Nya Hub",
